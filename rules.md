@@ -3,6 +3,14 @@
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
 
+## Commitment for Each Round
+### Round 1 
+*I will learn topics about frontend development and backend development*
+* Git and Github
+* node.js and express
+* SQL and NoSQL
+* RESTful API
+* React.js
 #### Start Date
 October 19th, 2020.
 
