@@ -25,3 +25,6 @@ Learned how to use the express routing parameters with app.get method to create 
 
 ### Day 7 of the 100 Days Challenge Of Code
 Learned about the differences between NoSQL and SQL. and after that did a little practice with SQL. and faced a problem installing mongodb on Arch linux i tried the AUR that installs it from source which would take a long time and after an hour an error occured. tried the binary version and fixed the issue importing PGP keys
+
+### Day 8 of the 100 Days Challenge Of Code
+Organized the readme file for the 100 Days of Code challenge and finally the mongodb shell worked turns out the problem was my hardware clock in the arch Linux OS was not set correctly. I knew about it before but because i did not affect me that much didn't bother to fix it until now :smile:
