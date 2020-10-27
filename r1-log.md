@@ -28,3 +28,8 @@ Learned about the differences between NoSQL and SQL. and after that did a little
 
 ### Day 8 of the 100 Days Challenge Of Code
 Organized the readme file for the 100 Days of Code challenge and finally the mongodb shell worked turns out the problem was my hardware clock in the arch Linux OS was not set correctly. I knew about it before but because i did not affect me that much didn't bother to fix it until now :smile:
+
+### Day 9 of the 100 Days Challenge of Code
+Thought about this challenge alot and decieded not to include the time i study in the challenge. The challenge will be purely working on my web development skills. I better get better with the use of git. Well i am getting better using the git. And from now on i will be working a creating a full website with the skills i have. 
+
+[Current Project](https://github.com/mostafa-hammud/MyWebsite)
