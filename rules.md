@@ -5,12 +5,12 @@
 
 ## Commitment for Each Round
 ### Round 1 
-*I will learn topics about frontend development and backend development*
-* Git and Github
-* node.js and express
-* SQL and NoSQL
-* RESTful API
-* React.js
+*I will work on a website applying all the concepts i learned*
+*HTML CSS and JS*
+*Node.js and express*
+*working with api's*
+*working with Bootstrap*
+
 #### Start Date
 October 19th, 2020.
 
@@ -18,7 +18,7 @@ October 19th, 2020.
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. I will push code to GitHub every day so that anyone can see my progress.
 3. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress
-
+4.Learning Coding and Watching tutorial does not count.
 
 
 
