@@ -24,6 +24,6 @@ October 19th, 2020.
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](r1-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
